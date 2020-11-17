@@ -1,0 +1,39 @@
+﻿  Probability cipher.cpp
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(215): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(235): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(254): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(84): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(195): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::pair<WORD,WORD>,std::allocator<_Ty>> RC5<WORD>::Encrypt(const std::vector<_Ty,std::allocator<_Ty>>)"
+          with
+          [
+              WORD=unsigned short,
+              _Ty=std::pair<unsigned short,unsigned short>
+          ]
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(176): note: выполняется компиляция ссылки на экземпляр шаблон класс "RC5<unsigned short>"
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(120): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(118): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(214): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::pair<WORD,WORD>,std::allocator<_Ty>> RC5<WORD>::Decrypt(const std::vector<_Ty,std::allocator<_Ty>>)"
+          with
+          [
+              WORD=unsigned short,
+              _Ty=std::pair<unsigned short,unsigned short>
+          ]
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(94): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(234): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::pair<WORD,WORD>,std::allocator<_Ty>> RC5<WORD>::Probabilistic_Encrypt(const std::vector<_Ty,std::allocator<_Ty>>)"
+          with
+          [
+              WORD=unsigned short,
+              _Ty=std::pair<unsigned short,unsigned short>
+          ]
+C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(128): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  C:\Users\rusli\source\repos\Probability cipher\Probability cipher.cpp(253): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::pair<WORD,WORD>,std::allocator<_Ty>> RC5<WORD>::Probabilistic_Decrypt(const std::vector<_Ty,std::allocator<_Ty>>)"
+          with
+          [
+              WORD=unsigned short,
+              _Ty=std::pair<unsigned short,unsigned short>
+          ]
+  Probability cipher.vcxproj -> C:\Users\rusli\source\repos\Probability cipher\Debug\Probability cipher.exe
